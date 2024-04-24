@@ -1,0 +1,57 @@
+/*html {
+  background-color: black;
+}
+
+div {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  border: solid black;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+img {
+  width: 100%;
+  border: solid white 5px;
+}
+*/
+
+body {
+  background-color: black;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.memep {
+  width: 50%;
+  margin-left: 25%;
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.meme {
+  width: 100%;
+  border: solid white 5px;
+}
